@@ -19,46 +19,46 @@ https://github.com/knathanieltucker/pandas_exercises
 - World Food Facts
 
 ### Filtering and Sorting
-Chipotle
-Euro12
-Fictional Army
+- Chipotle
+- Euro12
+- Fictional Army
 
 ### Grouping
-Alcohol Consumption
-Occupation
-Regiment
+- Alcohol Consumption
+- Occupation
+- Regiment
 
 ### Apply
-Students Alcohol Consumption
-US_Crime_Rates
+- Students Alcohol Consumption
+- US_Crime_Rates
 
 ### Merge
-Auto_MPG
-Fictitious Names
-House Market
+- Auto_MPG
+- Fictitious Names
+- House Market
 
 ### Stats
-US_Baby_Names
-Wind_Stats
+- US_Baby_Names
+- Wind_Stats
 
 ### Visualization
-Chipotle
-Titanic Disaster
-Scores
-Online Retail
-Tips
+- Chipotle
+- Titanic Disaster
+- Scores
+- Online Retail
+- Tips
 
 ### Creating Series and DataFrames
-Pokemon
+- Pokemon
 
 ### Time Series
-Apple_Stock
-Getting_Financial_Data
-Investor_Flow_of_Funds_US
+- Apple_Stock
+- Getting_Financial_Data
+- Investor_Flow_of_Funds_US
 
 ### Deleting
-Iris
-Wine
+- Iris
+- Wine
 
 
 
