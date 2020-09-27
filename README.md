@@ -5,6 +5,9 @@
 아래 깃허브에서 클론으로 문제를 다운받았습니다.
 https://github.com/knathanieltucker/pandas_exercises
 
+# 문제 풀이 
+https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
+
 # 파일 구조
 1. Exercise instructions : 문제 설명만 있음
 2. Solutions without code : 문제 설명 + 답이 어떻게 출력되어야하는지 알려줌
