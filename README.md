@@ -14,9 +14,9 @@ https://github.com/knathanieltucker/pandas_exercises
 
 # 문제 목록
 ### Getting and knowing
-Chipotle
-Occupation
-World Food Facts
+- Chipotle
+- Occupation
+- World Food Facts
 
 ### Filtering and Sorting
 Chipotle
