@@ -9,9 +9,8 @@ https://github.com/knathanieltucker/pandas_exercises
 https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
 
 # 파일 구조
-1. Exercise instructions : 문제 설명만 있음
-2. Solutions without code : 문제 설명 + 답이 어떻게 출력되어야하는지 알려줌
-3. Solutions with code and comments: 코드 정답 있음
+1. 테마 별 문제 모음
+2. basic: 문제 풀이 도중 배운 개념 
 
 -> 2번에 문제풀어서 솔루션과 비교 후 2번 파일만 업로드
 
