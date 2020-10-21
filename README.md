@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rX
 1. 테마 별 문제 모음
 2. basic: 문제 풀이 도중 배운 개념 
 
--> 2번에 문제풀어서 솔루션과 비교 후 2번 파일만 업로드
-
 # 문제 목록
 ### Getting and knowing
 - Chipotle
